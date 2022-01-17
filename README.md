@@ -1,2 +1,2 @@
-# natural_TRP_modulators
+# Natural_TRP_modulators
 Collection_of_natural_TRP_modulators
